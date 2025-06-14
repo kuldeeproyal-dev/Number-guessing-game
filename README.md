@@ -14,11 +14,8 @@ A simple and fun command-line number guessing game built using Java. The program
 
 ---
 
-## 🚀 Getting Started
-
-### 📁 Clone the repository
-
 ## DEMO
+
 Guess a number between 1 and 100:
 Enter your guess: 50
 Too high!
